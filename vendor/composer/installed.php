@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '0df0b0d6eb06cb29700b024960f7c8f7a95be800',
+        'reference' => '47512d7b6db4c9755e7a13b8940eec8d3d59fdb6',
         'name' => 'droptica/droopler-project',
         'dev' => true,
     ),
@@ -409,7 +409,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '0df0b0d6eb06cb29700b024960f7c8f7a95be800',
+            'reference' => '47512d7b6db4c9755e7a13b8940eec8d3d59fdb6',
             'dev_requirement' => false,
         ),
         'drupal/action' => array(
