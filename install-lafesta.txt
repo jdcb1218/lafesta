@@ -6,7 +6,7 @@ Instalación proyecto la Cesta;
 git clone https://github.com/jdcb1218/lafesta.git
 Username : jdcb1218@gmail.com 
 Password : Master123.$
-Password Token : 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
+Password Token : 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
 
 2-)Entramos sobre la raíz web del proyecto : Para mi maquina  /Library/WebServer/Documents/lafesta/ aqui deberíamos encontrar el archivo Composer.json 
 
