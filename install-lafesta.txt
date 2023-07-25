@@ -27,6 +27,11 @@ quedando de la siguiente manera:
 
 7-) Cambiamos apuntamientos de la base de datos en el settings.php 
 
+Los accesos web : son 
+
+Usuario : root
+Password : master
+
 6-) Vamos a : admin/config/development/performance
 Limpiamos caches del Portal. 
 
@@ -34,7 +39,4 @@ Limpiamos caches del Portal.
 
 FIN.
 
-Los accesos web : son 
 
-Usuario : root
-Password : master

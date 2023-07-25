@@ -11,3 +11,4 @@ sites/default/files/config*
 web/sites/default/files/styles/*
 web/sites/default/files/config_*
 vendor/*
+vendor/composer/installed.php
