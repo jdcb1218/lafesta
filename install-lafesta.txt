@@ -23,7 +23,7 @@ quedando de la siguiente manera:
 5-) Le damos permisos 777 a todo files/*
 
 
-6-) Inyectamos la db, ubicada en la siguiente ruta : "web/db/apostillar_dev_2023-03-21T23-13-25_UTC_database.sql.gz", el Motor de DB es Mysql 
+6-) Inyectamos la db, ubicada en la siguiente ruta : "web/db/dbbackup.gz", el Motor de DB es Mysql 
 
 7-) Cambiamos apuntamientos de la base de datos en el settings.php 
 
