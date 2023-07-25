@@ -1,0 +1,40 @@
+Instalación proyecto la Cesta;
+
+
+1-) Clonar proyecto
+
+git clone https://github.com/jdcb1218/lafesta.git
+Username : jdcb1218@gmail.com 
+Password : Master123.$
+Password Token : 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
+
+2-)Entramos sobre la raíz web del proyecto : Para mi maquina  /Library/WebServer/Documents/lafesta/ aqui deberíamos encontrar el archivo Composer.json 
+
+3-)Una vez dentro del directorio donde esta Ubicado Composer ejecutamos el comando: 
+composer install --ignore-platform-reqs
+
+4-) Luego entramos a : lafesta/web/sites/default/files/ y creamos 3 directorios, 
+quedando de la siguiente manera: 
+
+*lafesta/web/sites/default/files/css
+*lafesta/web/sites/default/files/js
+*lafesta/web/sites/default/files/php
+
+5-) Le damos permisos 777 a todo files/*
+
+
+6-) Inyectamos la db, ubicada en la siguiente ruta : "web/db/apostillar_dev_2023-03-21T23-13-25_UTC_database.sql.gz", el Motor de DB es Mysql 
+
+7-) Cambiamos apuntamientos de la base de datos en el settings.php 
+
+6-) Vamos a : admin/config/development/performance
+Limpiamos caches del Portal. 
+
+7-) Una vez limpiadas las caches, inspeccionamos el core, y los archivos faltantes como 404, los encontramos en la raíz, donde esta Composer llamándose bkfiles, de hay copiamos los archivos que necesitemos a cada una de las rutas 404.
+
+FIN.
+
+Los accesos web : son 
+
+Usuario : root
+Password : master
