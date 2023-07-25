@@ -10,3 +10,4 @@ sites/default/files/php*
 sites/default/files/config*
 web/sites/default/files/styles/*
 web/sites/default/files/config_*
+vendor/*
