@@ -1,11 +1,11 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => 'dev-master',
-        'version' => 'dev-master',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '43c6d4fb724b962caedee884168e47736a8a1925',
+        'reference' => '0df0b0d6eb06cb29700b024960f7c8f7a95be800',
         'name' => 'droptica/droopler-project',
         'dev' => true,
     ),
@@ -404,12 +404,12 @@
             'dev_requirement' => false,
         ),
         'droptica/droopler-project' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '43c6d4fb724b962caedee884168e47736a8a1925',
+            'reference' => '0df0b0d6eb06cb29700b024960f7c8f7a95be800',
             'dev_requirement' => false,
         ),
         'drupal/action' => array(
