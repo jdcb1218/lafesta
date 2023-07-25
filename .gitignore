@@ -8,4 +8,5 @@ sites/default/files/css*
 sites/default/files/js*
 sites/default/files/php*
 sites/default/files/config*
-
+web/sites/default/files/styles/*
+web/sites/default/files/config_*
