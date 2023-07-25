@@ -11,3 +11,8 @@
 /robots.txt
 /update.php
 /web.config
+sites/default/files/css/*
+sites/default/files/js/*
+sites/default/files/php/*
+sites/default/files/php/twig
+sites/default/files/php/twig/*
